@@ -1,135 +1,273 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=WHOAMI%3A+ROY;RED+TEAM+OPERATOR+IN+TRAINING;RCE+%7C+RECON+%7C+REPORT;ACCESS+LEVEL%3A+CLASSIFIED" alt="Typing SVG" />
+<img src="assets/banner.png" width="100%" alt="0xdzubair — Red Team Operator"/>
 
-</div>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=FF1A1A&center=true&vCenter=true&width=850&lines=Red+Team+Operator+%7C+Web+Pentester;Breaking+into+systems+the+legal+way...;Recon+%E2%86%92+Exploit+%E2%86%92+Report+%E2%86%92+Repeat;Hunting+for+RCE%2C+Logic+Flaws+%26+Attack+Paths;Always+Learning.+Always+Testing." alt="Typing SVG"/>
 
-<table align="center">
-<tr>
-<td width="260" align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/Muhammad-a11-crypto/Muhammad-a11-crypto/main/assets/profile.png" width="220" style="border-radius:8px;border:2px solid #ff0000;" onerror="this.style.display='none'"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-ff1a1a?style=for-the-badge&labelColor=080808" alt="Status"/>
+<img src="https://img.shields.io/badge/ROLE-RED%20TEAMER-ff1a1a?style=for-the-badge&labelColor=080808" alt="Role"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20PENTESTING-ff1a1a?style=for-the-badge&labelColor=080808" alt="Focus"/>
+<img src="https://img.shields.io/badge/SPECIALTY-RCE-ff1a1a?style=for-the-badge&labelColor=080808" alt="RCE"/>
 
-<h2>ROY</h2>
-<sub><b>Muhammad Zubair</b></sub>
+<br><br>
 
-</td>
-<td width="440">
-
-\`\`\`yaml
-alias:          0xdzubair
-role:           Red Teamer / Web Pentester (in progress)
-specialization: Remote Code Execution (RCE)
-secondary:      OSINT Operations
-status:         ONLINE — hunting
-clearance:      HACKERONE + BUGCROWD VERIFIED
-location:       UNDISCLOSED
-\`\`\`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)
-![Role](https://img.shields.io/badge/ROLE-RED%20TEAMER-black?style=for-the-badge&logo=hackthebox&logoColor=red&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-RCE%20%7C%20OSINT-black?style=for-the-badge&logo=target&logoColor=red&labelColor=000000)
+<a href="https://www.linkedin.com/in/muhammad-zubair-aa592430b/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" alt="LinkedIn"/>
+</a>
+<a href="https://hackerone.com/oxdzubair">
+<img src="https://img.shields.io/badge/HACKERONE-PROFILE-black?style=for-the-badge&logo=hackerone&logoColor=ff1a1a" alt="HackerOne"/>
+</a>
+<a href="https://bugcrowd.com/oxdzubair">
+<img src="https://img.shields.io/badge/BUGCROWD-PROFILE-black?style=for-the-badge&logo=bugcrowd&logoColor=ff1a1a" alt="Bugcrowd"/>
+</a>
+<a href="https://medium.com/@oxdzubair">
+<img src="https://img.shields.io/badge/MEDIUM-WRITEUPS-black?style=for-the-badge&logo=medium&logoColor=ff1a1a" alt="Medium"/>
+</a>
 
 </div>
 
 ---
 
-### `>_` MISSION BRIEF
+## `>_` WHOAMI
 
-\`\`\`bash
-root@roy:~$ cat mission.txt
+```bash
+┌──[0xdzubair@redteam]─[~]
+└─$ whoami
 
-I break things to understand how they're built.
-Currently training to become a professional Red Teamer & Web Pentester,
-with Remote Code Execution as my primary weapon and OSINT running
-as a parallel operation. Every recon tool I build exists because
-I needed it in the field first.
-\`\`\`
+0xdzubair
+
+┌──[0xdzubair@redteam]─[~]
+└─$ cat profile.txt
+
+Role        : Red Team Operator / Web Pentester
+Focus       : Web Security • RCE • AD • OSINT
+Mindset     : Recon first. Exploit smart. Document everything.
+Environment : Authorized Labs • CTFs • Bug Bounty
+Status      : Learning → Testing → Building
+```
 
 ---
 
-### `>_` CLEARANCE / CERTIFICATIONS
+## `>_` MISSION
+
+> **I break things to understand how they're built.**
+
+My focus is offensive security, with a growing specialization in **web application penetration testing and RCE-class vulnerabilities**.
+
+I enjoy turning reconnaissance into attack paths, understanding why vulnerabilities exist, and converting technical findings into useful reports and tooling.
+
+```text
+RECON
+  ↓
+ENUMERATION
+  ↓
+ATTACK SURFACE
+  ↓
+EXPLOITATION
+  ↓
+PRIVILEGE ESCALATION
+  ↓
+IMPACT
+  ↓
+REPORT
+  ↓
+REPEAT
+```
+
+---
+
+## ⚔️ RED TEAM ARSENAL
+
+### 🎯 Red Teaming & Penetration Testing
+
+`Active Directory` `Web Pentesting` `Privilege Escalation` `Lateral Movement` `Post-Exploitation`
+
+* Active Directory attack paths
+* AS-REP Roasting
+* Kerberoasting
+* DCSync
+* Domain privilege escalation
+* Windows & Linux privilege escalation
+* CVE-based exploitation
+* Lateral movement & network pivoting
+* Credential access & harvesting
+* Post-exploitation
+* Web application security testing
+* RCE vulnerability research
+* SQL Injection
+* SSTI / Jinja2
+* DVWA & PortSwigger labs
+* Bug bounty methodology
+
+---
+
+### 🔎 OSINT & RECON
+
+`Recon` `OSINT` `GEOINT` `Digital Investigations` `Metadata`
+
+* Passive reconnaissance
+* Google Dorking
+* Subdomain enumeration
+* DNS intelligence
+* Digital footprint investigations
+* GEOINT / CTF investigations
+* Phone-number OSINT
+* PIE Framework
+* Berkeley Protocol
+* Steganography
+* EXIF / metadata analysis
+* Satellite & aviation OSINT
+
+---
+
+### 🧰 TOOLKIT
+
+```text
+Nmap          Burp Suite        Metasploit
+Impacket      Mimikatz          Evil-WinRM
+Proxychains   Wireshark         msfvenom
+DVWA          BloodHound        PowerShell
+```
+
+---
+
+## 💻 DEVELOPMENT & AUTOMATION
+
+```python
+Python
+├── Recon Automation
+├── CLI Security Tools
+├── Enumeration
+└── Report Automation
+
+Node.js
+├── Automation
+└── Document Generation
+
+ReportLab
+└── Automated Security Reports
+```
+
+---
+
+## 🩸 PROJECTS
+
+| Project                         | Description                                                             |
+| :------------------------------ | :---------------------------------------------------------------------- |
+| 🩸 **Wraith**                   | CLI-based Python MITRE ATT&CK simulation framework for web applications |
+| 🩸 **SubReconX**                | Subdomain enumeration & reconnaissance framework                        |
+| 🩸 **ReconDash**                | Chained reconnaissance automation tool                                  |
+| 🛡️ **Cyber Defense Dashboard** | SOC simulation and defensive security platform                          |
+
+---
+
+## 🏆 CERTIFICATIONS
+
+<details>
+<summary><b>View Certifications</b></summary>
+
+<br>
+
+* 🎖️ **Certified Red Team Analyst (CRTA)** — CyberWarFare Labs
+* 🎖️ **Certified Offensive OSINT Operator (CO3)** — CyberWarFare Labs
+* 🎖️ **OSINT Level 1** — CyberWarFare Labs
+* 🎖️ **F1NDX — OSINT Level 2** — Investigations Certification
+* 🎖️ **F1NDX — OSINT Level 3** — Advanced Techniques
+* 🎖️ **Certified Cybersecurity Foundations (CORE)**
+* 🎖️ **Certified LLM Security Professional (CLLMSP)** — Hackviser
+* 🎖️ **Red Team Leaders**
+* 🎖️ **Introduction to Critical Infrastructure Protection (ICIP)**
+* 🎖️ **Certified Online Fraud Prevention Specialist (COFPS)** — OPSWAT Academy
+* 🎖️ **Certified Red Team Analyst** — Hack & Fix
+
+</details>
+
+---
+
+## 🧠 CURRENT FOCUS
 
 <div align="center">
 
-![CRTA](https://img.shields.io/badge/CRTA-CERTIFIED-black?style=for-the-badge&logo=hackthebox&logoColor=red&labelColor=1a1a1a)
-![CLLMSP](https://img.shields.io/badge/CLLMSP-CERTIFIED-black?style=for-the-badge&logo=owasp&logoColor=red&labelColor=1a1a1a)
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│              WEB APPLICATION SECURITY           │
+│                                                 │
+│       Recon  →  Attack Surface  →  RCE          │
+│                                                 │
+│       Authentication • Authorization             │
+│       SSTI • SQLi • SSRF • File Upload           │
+│       Command Injection • Logic Flaws            │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-### `>_` ARSENAL — TOOLS BUILT IN THE FIELD
+## 📡 SECURITY INTERESTS
 
-<table align="center">
-<tr>
-<th>Tool</th><th>Type</th><th>Purpose</th>
-</tr>
-<tr>
-<td><b>🩸 SubReconX</b></td><td>Recon</td><td>Subdomain enumeration & reconnaissance</td>
-</tr>
-<tr>
-<td><b>🩸 ReconDash</b></td><td>Recon</td><td>Centralized OSINT / recon dashboard</td>
-</tr>
-</table>
+* 🌐 Web Application Security
+* 💥 Remote Code Execution
+* 🏴 Red Team Operations
+* 🏢 Active Directory Security
+* 🔍 OSINT & Digital Investigations
+* 🛰️ GEOINT / Aviation OSINT
+* 📡 RF / UAV Security
+* 🧪 Vulnerability Research
+* 🤖 Security Automation
 
 ---
 
-### `>_` LOADOUT
+## 📊 GITHUB OPERATIONS
 
 <div align="center">
 
-![Kali](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat-square&logo=kali-linux&logoColor=red)
-![Burp](https://img.shields.io/badge/-Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=red)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=red)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=red)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=red)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=red)
-![AD](https://img.shields.io/badge/-Active%20Directory-000000?style=flat-square&logo=windows&logoColor=red)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=red)
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-a11-crypto&show_icons=true&hide_border=true&count_private=true&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&bg_color=0d0d0d" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-a11-crypto&hide_border=true&background=0d0d0d&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="49%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-### `>_` OPERATIONAL STATS
+## `>_` TERMINAL
 
-<div align="center">
+```bash
+root@0xdzubair:~# ./operator.sh
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-a11-crypto&show_icons=true&hide_border=true&count_private=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" alt="Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-a11-crypto&hide_border=true&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak" width="48%"/>
+[+] Initializing reconnaissance...
+[+] Mapping attack surface...
+[+] Enumerating services...
+[+] Hunting vulnerabilities...
+[+] Testing exploit paths...
+[+] Documenting findings...
 
-</div>
+[✓] Operation complete.
 
----
-
-### `>_` SECURE CHANNELS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=1a1a1a)](https://linkedin.com/in/muhammad-zubair-aa592430b/)
-[![Medium](https://img.shields.io/badge/MEDIUM-WRITEUPS-black?style=for-the-badge&logo=medium&logoColor=red&labelColor=1a1a1a)](https://medium.com/@oxdzubair)
-[![HackerOne](https://img.shields.io/badge/HACKERONE-PROFILE-black?style=for-the-badge&logo=hackerone&logoColor=red&labelColor=1a1a1a)](https://hackerone.com/oxdzubair)
-[![Bugcrowd](https://img.shields.io/badge/BUGCROWD-PROFILE-black?style=for-the-badge&logo=bugcrowd&logoColor=red&labelColor=1a1a1a)](https://bugcrowd.com/oxdzubair)
-
-</div>
+root@0xdzubair:~# echo "Never stop learning."
+Never stop learning.
+```
 
 ---
 
 <div align="center">
 
-\`\`\`
-"Access is temporary. Impact is permanent."
-\`\`\`
+### `ACCESS IS TEMPORARY. IMPACT IS PERMANENT.`
 
-<img src="https://komarev.com/ghpvc/?username=Muhammad-a11-crypto&style=for-the-badge&color=ff0000&labelColor=000000" alt="Profile Views"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-a11-crypto&style=for-the-badge&color=ff1a1a&labelColor=000000" alt="Profile Views"/>
+
+<br><br>
+
+**`0xdzubair`**
+
+<sub>Red Team • Web Security • OSINT • Research</sub>
 
 </div>
